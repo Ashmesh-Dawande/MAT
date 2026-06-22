@@ -8,7 +8,7 @@ An AI-powered NCERT tutoring chatbot that explains concepts in **Hinglish** (Hin
 
 Built with **Streamlit** + **Groq AI** (LLaMA 3.3 70B).
 
-**Live app: [studybuddy-ai-ncert.streamlit.app](https://studybuddy-ai-ncert.streamlit.app)**
+**Live app: [multilingualaitutor.streamlit.app](https://multilingualaitutor.streamlit.app/?exam=CAT&section=VARC&language=English&proficiency=Intermediate&mode=chat)**
 
 ---
 
