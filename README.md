@@ -13,7 +13,7 @@ Built with **Streamlit** + **Groq AI** (LLaMA 3.3 70B).
 
 1. **Clone the repo**
    ```bash
-   https://github.com/Ashmesh-Dawande/Studybuddy.git
+   https://github.com/Ashmesh-Dawande/MAT.git
    ```
 
 2. **Install dependencies**
