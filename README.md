@@ -48,10 +48,10 @@ User Input (text)
     app.py (Streamlit UI + session state)
         |
         v
-    prompts.py (builds system prompt with class/subject/chapter/language)
+    prompts.py (builds system prompt)
         |
         v
-    config.py (resolves chapters, starter questions, subject lists)
+    config.py (resolves questions)
         |
         v
     Groq API (LLaMA 3.3 70B / LLaMA 4 Scout for vision)
